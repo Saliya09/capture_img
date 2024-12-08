@@ -4,8 +4,8 @@
 #include "Base64.h"  // Include Base64 library
 
 // Wi-Fi credentials
-const char* ssid = "rednote";
-const char* password = "amir@1212";
+const char* ssid = "real";
+const char* password = "saliya123";
 
 // MQTT broker details
 const char* mqtt_server = "122.166.149.171";
